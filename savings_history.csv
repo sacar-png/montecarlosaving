@@ -1,0 +1,8 @@
+Year,Age,Monthly_Contribution,Annual_Contribution,Portfolio_Start_Balance,Stock_Allocation,Annual_Return,Portfolio_End_Balance,Inflation_Rate,Notes
+2020,35,800.00,9600.00,50000.00,0.70,0.182,68576.00,0.012,"Started serious saving/investing"
+2021,36,820.00,9840.00,68576.00,0.70,-0.043,75547.68,0.048,"Bear market dip"
+2022,37,850.00,10200.00,75547.68,0.68,0.262,106546.57,0.080,"Strong recovery year"
+2023,38,900.00,10800.00,106546.57,0.65,-0.192,96823.98,0.042,"2022-style correction"
+2024,39,950.00,11400.00,96823.98,0.65,0.245,133209.57,0.031,"Solid rebound"
+2025,40,1000.00,12000.00,133209.57,0.65,0.115,160998.57,0.028,"Moderate year"
+2026,41,1050.00,12600.00,160998.57,0.65,,,,"Current year (partial / projected)"
